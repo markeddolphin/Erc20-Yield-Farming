@@ -2,8 +2,6 @@
 
 #### Project: Yield Farm
 
-#### Author: Marvellous Ahiara
-
 ### Live Website: https://yieldcomp.vercel.app/
 
 Still in progress but core functionality working on testnet
